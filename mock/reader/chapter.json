@@ -1,0 +1,108 @@
+{
+	"msg": "\u6210\u529f",
+	"result": 0,
+	"chapters": [{
+		"price": 0,
+		"chapter_id": 0,
+		"word_count": 2348,
+		"free": true,
+		"title": " \u7b2c001\u7ae0 武器的发展"
+	}, {
+		"price": 0,
+		"chapter_id": 1,
+		"word_count": 2266,
+		"free": true,
+		"title": "\u7b2c002\u7ae0 武器与战争"
+	}, {
+		"price": 0,
+		"chapter_id": 2,
+		"word_count": 2287,
+		"free": true,
+		"title": "\u7b2c003\u7ae0 武器的未来发展"
+	}, {
+		"price": 0,
+		"chapter_id": 3,
+		"word_count": 2405,
+		"free": true,
+		"title": "\u7b2c004\u7ae0 中国相关"
+	}, {
+		"price": 0,
+		"chapter_id": 4,
+		"word_count": 2432,
+		"free": true,
+		"title": "\u7b2c005\u7ae0 \u6551\u547d\u7684\u7a3b\u8349"
+	}, {
+		"price": 0,
+		"chapter_id": 5,
+		"word_count": 2174,
+		"free": true,
+		"title": "\u7b2c006\u7ae0 \u5bdd\u5ba4\u95f9\u77db\u76fe"
+	}, {
+		"price": 0,
+		"chapter_id": 6,
+		"word_count": 2617,
+		"free": true,
+		"title": "\u7b2c007\u7ae0 狙击\u7684\u6f5c\u8d28"
+	}, {
+		"price": 0,
+		"chapter_id": 7,
+		"word_count": 2811,
+		"free": true,
+		"title": "\u7b2c008\u7ae0 \u516b\u8f88\u5b50\u8840\u9709"
+	}, {
+		"price": 0,
+		"chapter_id": 8,
+		"word_count": 2028,
+		"free": true,
+		"title": "\u7b2c009\u7ae0 \u81f4\u547d\u7684\u8bf1\u60d1"
+	}, {
+		"price": 0,
+		"chapter_id": 9,
+		"word_count": 2942,
+		"free": true,
+		"title": "\u7b2c010\u7ae0 \u7b2c\u4e00\u6b21\u7684\u4eba"
+	}, {
+		"price": 0,
+		"chapter_id": 10,
+		"word_count": 2436,
+		"free": true,
+		"title": "\u7b2c011\u7ae0 \u65e0\u6cd5\u5165\u4f60\u773c"
+	}, {
+		"price": 0,
+		"chapter_id": 11,
+		"word_count": 2480,
+		"free": true,
+		"title": "\u7b2c012\u7ae0 \u81ea\u6709\u6076\u4eba\u78e8"
+	}, {
+		"price": 0,
+		"chapter_id": 12,
+		"word_count": 2329,
+		"free": true,
+		"title": "\u7b2c013\u7ae0 \u906d\u53d7\u5230\u5c48\u8fb1"
+	}, {
+		"price": 0,
+		"chapter_id": 13,
+		"word_count": 2173,
+		"free": true,
+		"title": "\u7b2c014\u7ae0 \u7559\u4e00\u624b\u5907\u7528"
+	}, {
+		"price": 0,
+		"chapter_id": 14,
+		"word_count": 2291,
+		"free": true,
+		"title": "\u7b2c015\u7ae0 \u4e0d\u4f1a\u4f5c\u5c31\u8f93"
+	}, {
+		"price": 0,
+		"chapter_id": 15,
+		"word_count": 2508,
+		"free": true,
+		"title": "\u7b2c016\u7ae0 \u4ee5\u4f60\u4e3a\u8d4c\u7ea6"
+	}, {
+		"price": 0,
+		"chapter_id": 16,
+		"word_count": 2479,
+		"free": true,
+		"title": "\u7b2c017\u7ae0 \u6495\u7834\u4e86\u8138\u76ae"
+	}],
+	"title": "\u8c6a\u95e8\u5ba0\u5a5a\uff1a\u5927\u660e\u661f\u7684\u79d8\u5bc6\u604b\u4eba"
+}
