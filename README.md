@@ -19,7 +19,6 @@ npm start
 **项目展示**
 
 ![image](./static/img/reader1-1.png)
-![image](./static/img/reader2.png)
 ![image](./static/img/reader5.png)
 ![image](./static/img/reader7.png)
 ![image](./static/img/reader8.png)
