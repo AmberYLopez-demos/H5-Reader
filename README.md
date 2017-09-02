@@ -13,36 +13,25 @@
 npm start
 ```
 **项目展示**
-![image](..static/img/reader1.png)
-![image](..static/img/reader2.png)
-![image](..static/img/reader5.png)
-![image](..static/img/reader7.png)
-![image](..static/img/reader8.png)
+![image](./static/img/reader1.png)
+![image](./static/img/reader2.png)
+![image](./static/img/reader5.png)
+![image](./static/img/reader7.png)
+![image](./static/img/reader8.png)
 
 **项目结构**
 ```
 |－mock        模拟后台json数据
-
 |－servies
-
 |　　|－webAppService.js
-
-|－static　　静态资源文件
-
+|－static　　   静态资源文件
 |　　|－css
-
 |　　|－img
-
 |　　|－script
-
-|－view          视图文件目录
-
+|－view        视图文件目录
 |　　|－include
-
 |－.gitignore
-
-|－app.js    入口文件
-
+|－app.js       入口文件
 |－README.md
 ```
 
