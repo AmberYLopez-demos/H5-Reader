@@ -7,7 +7,7 @@
 * ejs实现服务端数据渲染模板
 * express框架与mock数据一起实现前后端分离的开发
 
-----------------------------------
+----------
 **项目展示**
 
 ![image](./static/img/reader1-1.png)
@@ -15,12 +15,14 @@
 ![image](./static/img/reader7.png)
 ![image](./static/img/reader8.png)
 
------------------------------------------
+----------
 
 **启动项目**
 
 ```
+npm install
 npm start
+浏览器地址栏输入：localhost:3000
 ```
 
 
